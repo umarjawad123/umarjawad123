@@ -43,7 +43,9 @@ Flutter-based authentication UI application designed for a Fitness Club concept.
 **Data & Backend Basics:**
 
 * Sqflite (Local Database)
-* REST APIs (basic understanding)
+* REST APIs
+* Firebase Authentication
+* Cloud Firestore
 
 **Tools:**
 
